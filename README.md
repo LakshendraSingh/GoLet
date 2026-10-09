@@ -1,4 +1,4 @@
-# goc — Mini Self-Hosted Go Compiler
+# golet — Mini Self-Hosted Go Compiler
 
 A complete mini Go-to-C transpiling compiler written in Go.
 
